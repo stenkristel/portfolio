@@ -180,6 +180,15 @@ h6,
     background-size: cover;
 }
 
+.carto-header {
+    background: linear-gradient(rgba(18, 15, 45, .5), rgba(18, 15, 45, .5)), url(../img/Carto.jpg) top right no-repeat;
+    background-size: cover;
+}
+.stafall-header {
+    background: linear-gradient(rgba(18, 15, 45, .5), rgba(18, 15, 45, .5)), url(../img/Starfall3.jpg) top right no-repeat;
+    background-size: cover;
+}
+
 .service-item div {
     z-index: 1;
 }
