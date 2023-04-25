@@ -189,6 +189,16 @@ h6,
     background-size: cover;
 }
 
+.marque-header {
+    background: linear-gradient(rgba(18, 15, 45, .5), rgba(18, 15, 45, .5)), url(../img/MarqueHeader.jpg) top right no-repeat;
+    background-size: cover;
+}
+
+.towerdefense-header {
+    background: linear-gradient(rgba(18, 15, 45, .5), rgba(18, 15, 45, .5)), url(../img/towerdefenseHeader.jpg) top right no-repeat;
+    background-size: cover;
+}
+
 .service-item div {
     z-index: 1;
 }
